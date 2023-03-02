@@ -6,6 +6,7 @@ Skills used:
 * Data manipulation
 * Joining data in SQL
 * Comparing results with set theory
-* Summary statistics
+* Subqueries
 * Aggregate functions
+* Filtering grouped data
 * Sorting, filtering, and grouping query results
